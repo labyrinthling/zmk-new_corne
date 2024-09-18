@@ -40,7 +40,7 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - $$mdi:keyboard-esc$$
-  - {t: space, h: Fn}
+  - {t: '$$mdi:keyboard-space$$', h: Fn}
   - lower
   - $$mdi:keyboard-space$$
   - LGUI
